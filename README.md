@@ -36,6 +36,7 @@ performance and user satisfaction.
   protocols and enhancing network security and efficiency.
 - **Process Optimization:** Identified and implemented process improvements to enhance team productivity and project
   outcomes.
+- **App Improvement:** Elevated app rating from 4.3 ★ to 4.9 ★ through targeted optimizations and enhancements.
 
 ### 📧 Contact Information
 
@@ -69,6 +70,7 @@ performance and user satisfaction.
 ![Substrate](https://img.shields.io/badge/Substrate-282828?style=for-the-badge&logo=substrate&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![ActiveX](https://img.shields.io/badge/ActiveX-1F425F?style=for-the-badge&logo=microsoft&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
