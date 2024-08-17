@@ -43,6 +43,7 @@ performance and user satisfaction.
 - **WhatsApp:** [Click to chat](https://wa.me/923167852626)
 - **Email:** [symikhan70@gmail.com](mailto:symikhan70@gmail.com)
 
+
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
@@ -55,7 +56,6 @@ performance and user satisfaction.
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-<br>
 
 ### 💾 Databases
 
@@ -63,7 +63,6 @@ performance and user satisfaction.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-<br>
 
 ### 🧩 Libraries & Framework
 
@@ -91,7 +90,6 @@ performance and user satisfaction.
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-2D72D9?style=for-the-badge&logo=docusaurus&logoColor=white)
 
-<br>
 
 ### 🧑🏻‍💻 Tools & Platform
 
@@ -120,13 +118,11 @@ performance and user satisfaction.
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-<br>
 
 ### 💻 Workspace
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<br>
 
 ## 📈 Stats
 
