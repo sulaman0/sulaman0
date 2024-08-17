@@ -8,6 +8,30 @@
 	<a href="[https://stackoverflow.com/questions/23921117/disable-only-full-group-by/23921234](https://stackoverflow.com/questions/23921117/disable-only-full-group-by/23921234)"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p><br>
 
+## ⚡ About Me
+<p>
+	I am a dynamic professional with expertise in blockchain technology, software development, and AI. With a proven track record of transforming projects and leading teams to success, I am passionate about innovation and strive to leverage my skills to drive impactful initiatives and contribute to organizational growth.
+
+I began my career with PHP, and now, I specialize in developing blockchain solutions with various consensus mechanisms. My experience includes transforming a high-traffic Node.js project serving 1M users to Go, resolving memory issues, and ensuring seamless performance, contributing to an exceptional user experience.
+
+I developed Elysium Explorer using Substrate, Node.js, and React.js, focusing on retrieving and tailoring blockchain data. I also led the creation of a contract verification service integrated with BlockScout and played a key role in enhancing the Elysium platform with features like an external validator node, a secure Elysium Faucet, and a Cloud Wallet for managing NFTs and tokens.
+
+Additionally, I deployed the Fusion AI tool for generating and minting NFTs, promoted AI awareness within my team using tools like Copilot and ChatGPT, and managed a team of highly skilled developers. My contributions include refining APIs, optimizing startup times, and implementing fraud prevention initiatives, leading to significant improvements in performance and user satisfaction. 
+</p>
+
+### 🎯 My Achievements
+
+- **Optimized API Performance:** Refined the Blockchain Art API to handle over 1M+ requests efficiently, prioritizing server resource management.
+- **Technical Leadership:** Led projects to achieve CMMI 2.0 certification, optimizing startup times to 10 seconds.
+- **Blockchain Development:** Successfully developed a blockchain utilizing Aura and BABE consensus mechanisms, as well as Proof of Authority (PoA) and Proof of Stake (PoS) models, demonstrating advanced knowledge in blockchain consensus protocols and enhancing network security and efficiency.
+- **Process Optimization:** Identified and implemented process improvements to enhance team productivity and project outcomes.
+
+### 📧 Contact Information
+
+- **WhatsApp:** [Click to chat](https://wa.me/923167852626)
+- **Email:** [symikhan70@gmail.com](mailto:symikhan70@gmail.com)
+
+
 
 ## ⚡ Tech Stack
 
