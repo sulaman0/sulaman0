@@ -1,4 +1,3 @@
-
 <div align="center">
 	<img alt="Moamen Eltouny's Welcome Message" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Sulaman+Khan+GitHub&center=trueheight=55">
 </div>
@@ -9,29 +8,39 @@
 </p><br>
 
 ## ⚡ About Me
+
 <p>
-	I am a dynamic professional with expertise in blockchain technology, software development, and AI. With a proven track record of transforming projects and leading teams to success, I am passionate about innovation and strive to leverage my skills to drive impactful initiatives and contribute to organizational growth.
+I contributed to BlockChain, dApps application, Faucets, Visualizer, Explorer, Docs, Smart Contract Verification, Staking & External Validator Node, Faucet, and a Wallet for managing NFTs and tokens.
 
-I began my career with PHP, and now, I specialize in developing blockchain solutions with various consensus mechanisms. My experience includes transforming a high-traffic Node.js project serving 1M users to Go, resolving memory issues, and ensuring seamless performance, contributing to an exceptional user experience.
+I am a dynamic professional with expertise in blockchain technology, software development, and AI. With a proven track
+record of transforming projects and leading teams to success, I am passionate about innovation and strive to leverage my
+skills to drive impactful initiatives and contribute to organizational growth.
 
-I developed Elysium Explorer using Substrate, Node.js, and React.js, focusing on retrieving and tailoring blockchain data. I also led the creation of a contract verification service integrated with BlockScout and played a key role in enhancing the Elysium platform with features like an external validator node, a secure Elysium Faucet, and a Cloud Wallet for managing NFTs and tokens.
+I began my career with PHP, and now, I specialize in developing blockchain solutions with various consensus mechanisms.
+My experience includes transforming a high-traffic Node.js project serving 1M users to Go, resolving memory issues, and
+ensuring seamless performance, contributing to an exceptional user experience.
 
-Additionally, I deployed the Fusion AI tool for generating and minting NFTs, promoted AI awareness within my team using tools like Copilot and ChatGPT, and managed a team of highly skilled developers. My contributions include refining APIs, optimizing startup times, and implementing fraud prevention initiatives, leading to significant improvements in performance and user satisfaction. 
+Additionally, I deployed the Fusion AI tool for generating and minting NFTs, promoted AI awareness within my team using
+tools like Copilot and ChatGPT, and managed a team of highly skilled developers. My contributions include refining APIs,
+optimizing startup times, and implementing fraud prevention initiatives, leading to significant improvements in
+performance and user satisfaction.
 </p>
 
 ### 🎯 My Achievements
 
-- **Optimized API Performance:** Refined the Blockchain Art API to handle over 1M+ requests efficiently, prioritizing server resource management.
+- **Optimized API Performance:** Refined the Blockchain Art API to handle over 1M+ requests efficiently, prioritizing
+  server resource management.
 - **Technical Leadership:** Led projects to achieve CMMI 2.0 certification, optimizing startup times to 10 seconds.
-- **Blockchain Development:** Successfully developed a blockchain utilizing Aura and BABE consensus mechanisms, as well as Proof of Authority (PoA) and Proof of Stake (PoS) models, demonstrating advanced knowledge in blockchain consensus protocols and enhancing network security and efficiency.
-- **Process Optimization:** Identified and implemented process improvements to enhance team productivity and project outcomes.
+- **Blockchain Development:** Successfully developed a blockchain utilizing Aura and BABE consensus mechanisms, as well
+  as Proof of Authority (PoA) and Proof of Stake (PoS) models, demonstrating advanced knowledge in blockchain consensus
+  protocols and enhancing network security and efficiency.
+- **Process Optimization:** Identified and implemented process improvements to enhance team productivity and project
+  outcomes.
 
 ### 📧 Contact Information
 
 - **WhatsApp:** [Click to chat](https://wa.me/923167852626)
 - **Email:** [symikhan70@gmail.com](mailto:symikhan70@gmail.com)
-
-
 
 ## ⚡ Tech Stack
 
@@ -78,6 +87,7 @@ Additionally, I deployed the Fusion AI tool for generating and minting NFTs, pro
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-2D72D9?style=for-the-badge&logo=docusaurus&logoColor=white)
 
 <br>
 
@@ -121,8 +131,4 @@ Additionally, I deployed the Fusion AI tool for generating and minting NFTs, pro
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=slmnV0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=slmnV0&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" />
-</p>
-
-<p align="center">
-	<img alt="Sulaman Khan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=slmnV0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 </p>
