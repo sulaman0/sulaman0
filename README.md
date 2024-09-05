@@ -1,16 +1,16 @@
 <div align="center">
-	<img alt="Moamen Eltouny's Welcome Message" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Sulaman+Khan+GitHub&center=trueheight=55">
+	<img alt="Sulamna's Welcome Message" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Sulaman+Khan+GitHub&center=trueheight=55">
 </div>
 
 <p align="center">
-	<a href="[https://www.linkedin.com/in/sulaman-khan-601ab9137](https://www.linkedin.com/in/sulaman-khan-601ab9137/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+	<a href="https://www.linkedin.com/in/sulaman-khan-601ab9137"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 	<a href="[https://stackoverflow.com/questions/23921117/disable-only-full-group-by/23921234](https://stackoverflow.com/questions/23921117/disable-only-full-group-by/23921234)"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p><br>
 
 ## ⚡ About Me
 
 <p>
-I contributed to BlockChain, dApps application, Faucets, Visualizer, Explorer, Docs, Smart Contract Verification, Staking & External Validator Node, Faucet, and a Wallet for managing NFTs and tokens.
+I contributed to the development of blockchain layer 1 solutions, working on Governance pallet and Pallet MultiSig. My experience includes building dApps, Faucets, Visualizers, Explorers, Smart Contract Verification systems, Staking & External Validator Nodes, and a Wallet for managing NFTs and tokens. Additionally, I have worked on blockchain documentation, including creating explorers, and other tools.
 
 I am a dynamic professional with expertise in blockchain technology, software development, and AI. With a proven track
 record of transforming projects and leading teams to success, I am passionate about innovation and strive to leverage my
