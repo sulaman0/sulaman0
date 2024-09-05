@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/sulaman-khan-601ab9137" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-	<a href="https://stackoverflow.com/questions/23921117/disable-only-full-group-by/23921234" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+	<a href="https://stackoverflow.com/users/8344330/mr-sulaman-khan" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p><br>
 
 ## ⚡ About Me
