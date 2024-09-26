@@ -38,6 +38,13 @@ performance and user satisfaction.
   outcomes.
 - **App Improvement:** Elevated app rating from 4.3 ★ to 4.9 ★ through targeted optimizations and enhancements.
 
+### 🚀 My Projects
+
+### [Project 1: Care Cart](https://apps.shopify.com/partners/care-cart)
+![Care Cart Image](https://media.licdn.com/dms/image/sync/v2/D4E27AQG3HsrFf6pZqQ/articleshare-shrink_800/articleshare-shrink_800/0/1712141212866?e=1727956800&v=beta&t=3iwQMTKc2IgroxlLrlfYzKHlDHtVieyYDvcWk4keVXQ)
+- **Description**: A Shopify app designed to recover abandoned carts through automated email follow-ups and push notifications.
+- **Tech Stack**: Shopify, Liquid, JavaScript, Node.js
+
 ### 📧 Contact Information
 
 - **WhatsApp:** [Click to chat](https://wa.me/923167852626)
