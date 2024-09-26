@@ -41,7 +41,7 @@ performance and user satisfaction.
 ### 🚀 My Projects
 
 ### [Project 1: Care Cart](https://apps.shopify.com/partners/care-cart)
-![Care Cart Image](https://media.licdn.com/dms/image/sync/v2/D4E27AQG3HsrFf6pZqQ/articleshare-shrink_800/articleshare-shrink_800/0/1712141212866?e=1727956800&v=beta&t=3iwQMTKc2IgroxlLrlfYzKHlDHtVieyYDvcWk4keVXQ)
+![Care Cart Image](https://media.licdn.com/dms/image/sync/v2/D4E27AQG3HsrFf6pZqQ/articleshare-shrink_800/articleshare-shrink_800/0/1712141212866?e=1727956800&v=beta&t=3iwQMTKc2IgroxlLrlfYzKHlDHtVieyYDvcWk4keVXQ){:width="400" height="300"}
 - **Description**: A Shopify app designed to recover abandoned carts through automated email follow-ups and push notifications.
 - **Tech Stack**: Shopify, Liquid, JavaScript, Node.js
 
