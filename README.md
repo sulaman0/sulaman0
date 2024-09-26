@@ -48,6 +48,32 @@ Elysium Chain. You can explore its features, transactions, and overall performan
 #### [**Elysium AI NFT Studio**](https://studio-dev.elysiumchain.tech)
 AI NFT Studio to Empowering Creators, Experience the ultimate NFT Launchpad, powered by cutting-edge no-code technology, enabling you to effortlessly release and showcase your NFT masterpieces.
 
+#### [**Elysium CloudWallet**](http://wallet.elysiumchain.tech)
+Keep everything in one place, Unleash the power of web3 with Elysium Cloud Wallet. Seamlessly manage, secure, and explore all your digital assets.
+
+#### [**Elysium Scan**](https://explorer.elysiumchain.tech)
+The transaction explorer for Elysium Chain. This tool allows you to view real-time transactions, block details, and account information, providing transparency and insights into the network's activity.
+
+#### [**Elysium Faucet**](https://faucet.elysiumchain.tech)
+Open the door now to the crypto world, collect free coins and play wonderful games!
+
+#### [**Elysium Documentation**](https://docs.elysiumchain.tech)
+Elysium documentation includes conceptual, procedural, and reference information for blockchain builders and parachain project teams
+
+#### [**Sales Pop up Conversion Pro**](https://apps.shopify.com/recent-sales-popup-notifications-1)
+Sales Popup creates urgency & fomo on bfcm sales and show your visitors that items are limited and selling really fast. It creates social proof & trust with trust badges that your store needs among new store visitors. Rock your store this sales season on Black Friday & Cyber Monday.
+
+#### [**Wheelify Spin Wheel Email Pop**](https://apps.shopify.com/spin-wheel)
+Wheelify spin wheel email pop up app by Care Cart is designed to build email list and SMS Marketing list by gamifying discount code delivery. Get phone number & make more sales with this discount game and email popup app. Our spin wheel app helps you run spin-to-win, email popup, email capture, email sign up, spin popup, flash sale time bar, BFCM and other built-in campaigns to boost sales.
+
+#### [**Cartly Abandoned Cart Recovery**](https://apps.shopify.com/care-cart)
+Care Cart is a simple and reliable abandoned cart recovery system that recovers your lost revenue by tracking all carts, checkouts initiated & orders by retargeting them through automated email marketing & web push notifications. Recover abandoned carts with email, push notifications and cart reminder. Order follow up email campaign to thank your customers and win-back email encourages old customer to buy again. App also delivers discount code through Spin-a-sale spin wheel.
+
+#### [**Codency**](https://play.google.com/store/apps/details?id=com.codency.app&hl=en_US)
+Emergency Notification Amplifier is a powerful and intuitive mobile application designed to enhance emergency communication between users and administrators. In critical situations, timely communication can be a lifesaver. Our app facilitates swift transmission of emergency notifications, ensuring that crucial information reaches the right recipients promptly.
+
+#### [**Expert App**](https://play.google.com/store/apps/details?id=com.experts.com&hl=en_US)
+Developed a 𝘀𝗼𝗰𝗶𝗮𝗹 𝗮𝗽𝗽 that enables users to 𝗰𝗼𝗻𝗻𝗲𝗰𝘁, create 𝗰𝗼𝘂𝗿𝘀𝗲𝘀, build 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝗶𝗲𝘀, and share 𝗽𝗼𝘀𝘁𝘀. The platform fosters interaction by allowing users to join groups, participate in discussions, and engage with educational content. It provides tools for community building, content sharing, and collaborative learning, making it a dynamic space for personal growth, networking, and knowledge exchange.
 
 ### 📧 Contact Information
 
