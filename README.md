@@ -40,10 +40,8 @@ performance and user satisfaction.
 
 ### 🚀 My Projects
 
-### [Project 1: Care Cart](https://apps.shopify.com/partners/care-cart)
-
 <div style="display: flex; align-items: flex-start;">
-    <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQG3HsrFf6pZqQ/articleshare-shrink_800/articleshare-shrink_800/0/1712141212866?e=1727956800&v=beta&t=3iwQMTKc2IgroxlLrlfYzKHlDHtVieyYDvcWk4keVXQ" alt="Care Cart Image" width="150" height="150" style="margin-right: 20px;">
+    <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQG3HsrFf6pZqQ/articleshare-shrink_800/articleshare-shrink_800/0/1712141212866?e=1727956800&v=beta&t=3iwQMTKc2IgroxlLrlfYzKHlDHtVieyYDvcWk4keVXQ" alt="Care Cart Image" width="56" height="106" style="margin-right: 20px;">
     <div>
         <h3>[Project 1: Care Cart](https://apps.shopify.com/partners/care-cart)</h3>
         <p><strong>Description:</strong> A Shopify app designed to recover abandoned carts through automated email follow-ups and push notifications.</p>
