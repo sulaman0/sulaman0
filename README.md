@@ -41,8 +41,7 @@ performance and user satisfaction.
 ### 🚀 My Projects
 
 ### [Project 1: Care Cart](https://apps.shopify.com/partners/care-cart)
-<img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQG3HsrFf6pZqQ/articleshare-shrink_800/articleshare-shrink_800/0/1712141212866?e=1727956800&v=beta&t=3iwQMTKc2IgroxlLrlfYzKHlDHtVieyYDvcWk4keVXQ" alt="Care Cart Image" width="400" height="300">
-![Care Cart Image](https://media.licdn.com/dms/image/sync/v2/D4E27AQG3HsrFf6pZqQ/articleshare-shrink_800/articleshare-shrink_800/0/1712141212866?e=1727956800&v=beta&t=3iwQMTKc2IgroxlLrlfYzKHlDHtVieyYDvcWk4keVXQ){:width="400" height="300"}
+<img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQG3HsrFf6pZqQ/articleshare-shrink_800/articleshare-shrink_800/0/1712141212866?e=1727956800&v=beta&t=3iwQMTKc2IgroxlLrlfYzKHlDHtVieyYDvcWk4keVXQ" alt="Care Cart Image" width="106" height="56" style="object-fit: cover">
 - **Description**: A Shopify app designed to recover abandoned carts through automated email follow-ups and push notifications.
 - **Tech Stack**: Shopify, Liquid, JavaScript, Node.js
 
