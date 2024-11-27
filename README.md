@@ -10,7 +10,7 @@
 ## ⚡ About Me
 
 <p>
-I contributed to the development of blockchain layer 1 solutions, working on Governance & MultiSig pallet. My experience includes building dApps, Faucets, Visualizers, Explorers, Smart Contract Verification systems, Staking & External Validator Nodes, and a Wallet for managing NFTs and tokens. Additionally, I have worked on blockchain documentation, including creating explorers, and other tools.
+I contributed to the development of blockchain layer 1 solutions, working on Governance, Staking, Randomness, MultiSig and other pallets. My experience includes building dApps, Faucets, Visualizers, Explorers, Smart Contract Verification systems, Staking & External Validator Nodes, and a Wallet for managing NFTs and tokens. Additionally, I have worked on blockchain documentation, including creating explorers, and other tools.
 
 I am a dynamic professional with expertise in blockchain technology, software development, and AI. With a proven track
 record of transforming projects and leading teams to success, I am passionate about innovation and strive to leverage my
