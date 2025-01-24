@@ -165,7 +165,7 @@ Developed a 𝘀𝗼𝗰𝗶𝗮𝗹 𝗮𝗽𝗽 that enables users to 𝗰𝗼
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sulaman0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=slmnV0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=slmnV0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> -->
 <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sulaman0&theme=vue-dark&hide_border=true" alt="GitHub Streak" /> -->
 </p>
 
