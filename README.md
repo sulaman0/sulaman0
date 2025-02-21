@@ -159,6 +159,7 @@ Developed a 𝘀𝗼𝗰𝗶𝗮𝗹 𝗮𝗽𝗽 that enables users to 𝗰𝗼
 ### 💻 Workspace
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-f0f0f0?logo=apple&logoColor=white&style=for-the-badge)
 
 
 ## 📈 Stats
