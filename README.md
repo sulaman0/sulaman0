@@ -101,6 +101,7 @@ Developed a 𝘀𝗼𝗰𝗶𝗮𝗹 𝗮𝗽𝗽 that enables users to 𝗰𝗼
 <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sulaman0&theme=vue-dark&hide_border=true" alt="GitHub Streak" /> -->
 </p>
 
+<a href="http://www.github.com/sulaman0"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sulaman0&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> &nbsp;
 
 
 
