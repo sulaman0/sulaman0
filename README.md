@@ -161,6 +161,13 @@ Developed a 𝘀𝗼𝗰𝗶𝗮𝗹 𝗮𝗽𝗽 that enables users to 𝗰𝗼
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-f0f0f0?logo=apple&logoColor=black&style=for-the-badge)
 
+| Category                  | Technology |
+|---------------------------|------------|
+| **Languages**             | <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++" title="C++" /> C++ <br> <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" alt="Python" title="Python" /> Python <br> <img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /> JavaScript <br> <img width="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" /> TypeScript |
+| **Databases**             | <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" title="MongoDB" /> MongoDB <br> <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" title="MySQL" /> MySQL |
+| **Libraries & Frameworks** | <img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /> React <br> <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" alt="Next.js" title="Next.js" /> Next.js <br> <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" /> NodeJS <br> <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" alt="Express" title="Express" /> Express |
+| **Others**                | <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" title="AWS" /> AWS <br> <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" /> Git <br> <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" title="Visual Studio Code" /> Visual Studio Code |
+
 
 ## 📈 Stats
 
