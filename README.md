@@ -84,7 +84,7 @@ Deep backend and blockchain experience that underpins my production engineering 
 
 - **Email:** [se.sulaman.khan@gmail.com](mailto:se.sulaman.khan@gmail.com)
 - **WhatsApp:** [Click to chat](https://wa.me/923167852626)
-- **LinkedIn:** [sulaman-khan](https://www.linkedin.com/in/sulaman-khan-601ab9137)
+- **LinkedIn:** [sulaman-khan](https://www.linkedin.com/in/suleman-khan-601ab9137/)
 
 ---
 
